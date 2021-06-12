@@ -70,9 +70,9 @@ const IndexPage = () => (
     <section className="features" id="features">
       <div className="container">
         <div className="section-heading text-center">
-          <h2>Unlimited Features, Unlimited Fun</h2>
+          <h2>Your personal pocket sommelier</h2>
           <p className="text-muted">
-            Check out what you can do with this app theme!
+            Simply scan a wine, label or menu and we tell you the probability of liking it!
           </p>
           <hr />
         </div>
@@ -95,20 +95,18 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-screen-smartphone text-primary"></i>
-                    <h3>Device Mockups</h3>
+                    <h3>Personalized Recommendations</h3>
                     <p className="text-muted">
-                      Ready to use HTML/CSS device mockups, no Photoshop
-                      required!
+                      Avintageo leverages powerful AI based on over a million data points to score our recommendations!
                     </p>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary"></i>
-                    <h3>Flexible Use</h3>
+                    <h3>Tasting Journal</h3>
                     <p className="text-muted">
-                      Put an image, video, animation, or anything else in the
-                      screen!
+                      Rate and comment on all your tastings so you never have to relive a bad wine experience!
                     </p>
                   </div>
                 </div>
@@ -117,20 +115,18 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-present text-primary"></i>
-                    <h3>Free to Use</h3>
+                    <h3>Analytics</h3>
                     <p className="text-muted">
-                      As always, this theme is free to download and use for any
-                      purpose!
+                      Use your personalized dashboard to uncover insights into your wine tasting history!
                     </p>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-lock-open text-primary"></i>
-                    <h3>Open Source</h3>
+                    <h3>Great Selection</h3>
                     <p className="text-muted">
-                      Since this theme is MIT licensed, you can use it
-                      commercially!
+                      Over 100,000 wines in our database!
                     </p>
                   </div>
                 </div>
