@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter New age', // <title>
+  siteTitle: 'Avintageo', // <title>
   manifestName: 'newage',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -11,24 +11,19 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
+      icon: 'fa-instagram',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-linkedin-in',
-      name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
+      url: 'https://instagram.com/avintageo',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/avintageo',
     },
     {
       icon: 'fa-facebook-f',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com/avintageo',
     },
   ],
 };

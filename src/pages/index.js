@@ -6,7 +6,7 @@ import Scroll from '../components/Scroll';
 import Footer from '../components/Footer';
 import Social from '../components/Social';
 
-import demo1 from '../assets/images/demo-screen-1.jpg';
+import demo1 from '../assets/images/demo-screen-avintageo-1.png';
 import gplay from '../assets/images/google-play-badge.svg';
 import astore from '../assets/images/app-store-badge.svg';
 
@@ -20,12 +20,11 @@ const IndexPage = () => (
           <div className="col-lg-7 my-auto">
             <div className="header-content mx-auto">
               <h1 className="mb-5">
-                New Age is an gatsby starter for app landing page that will help
-                you beautifully showcase your new mobile app, or anything else!
+                Life is too short to drink bad wine. Find the best wine for you with AI powered personal wine recommendations from Avintageo!
               </h1>
               <Scroll type="id" element="download">
                 <a href="#download" className="btn btn-outline btn-xl">
-                  Start Now for Free!
+                  Download the app!
                 </a>
               </Scroll>
             </div>
@@ -54,13 +53,11 @@ const IndexPage = () => (
               Discover what all the buzz is about!
             </h2>
             <p>
-              Our app is available on any mobile device! Download now to get
+              Our app is currently available for iOS mobile devices! Download now to get
               started!
             </p>
             <div className="badges">
-              <a className="badge-link" href="/#">
-                <img src={gplay} alt="" />
-              </a>
+
               <a className="badge-link" href="/#">
                 <img src={astore} alt="" />
               </a>
@@ -148,13 +145,13 @@ const IndexPage = () => (
       <div className="cta-content">
         <div className="container">
           <h2>
-            Stop waiting.
+            You scan.
             <br />
-            Start building.
+            We'll pick.
           </h2>
           <Scroll type="id" element="contact">
             <a href="#contact" className="btn btn-outline btn-xl">
-              Let's Get Started!
+              Let's Find a Wine!
             </a>
           </Scroll>
         </div>
